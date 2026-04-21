@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "accessibility-agents",
-      "source": ".",
+      "source": "./plugin.json",
       "description": "WCAG AA accessibility enforcement — local extended copy.",
       "version": "3.2.0",
       "author": {
