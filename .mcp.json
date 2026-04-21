@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "a11y-agent-team": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp-server/stdio.js"]
+    }
+  }
+}

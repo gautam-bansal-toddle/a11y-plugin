@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Community-Access/accessibility-agents/main/schemas/epub-scan-config.schema.json",
+  "version": "1.0",
+  "description": "Moderate ePub profile — errors and warnings only. Good default for most organizations.",
+  "epub": {
+    "enabled": true,
+    "disabledRules": [],
+    "severityFilter": ["error", "warning"],
+    "maxFileSize": 104857600
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "gautam-a11y",
+  "owner": {
+    "name": "Gautam Bansal"
+  },
+  "metadata": {
+    "description": "Local fork of Community-Access/accessibility-agents for personal extension."
+  },
+  "plugins": [
+    {
+      "name": "accessibility-agents",
+      "source": ".",
+      "description": "WCAG AA accessibility enforcement — local extended copy.",
+      "version": "3.2.0",
+      "author": {
+        "name": "Taylor Arndt (upstream); extended locally"
+      },
+      "category": "accessibility",
+      "homepage": "https://github.com/Community-Access/accessibility-agents"
+    }
+  ]
+}
